@@ -1,0 +1,17 @@
+body{
+    backround-color: #E9E3DF
+}
+h1{
+    color: #FF7A30;
+    text-align: center;
+    font-size :60px;
+}
+p{
+    color:#78B9B5;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    margin-left: 660px;
+    width: 60%;
+}
